@@ -1,0 +1,383 @@
+C:\Users\SMART\source\repos\POS SALES\bin\Release\POS SALES.exe
+C:\Users\SMART\source\repos\POS SALES\bin\Release\POS SALES.pdb
+C:\Users\SMART\source\repos\POS SALES\bin\Release\DGV Printer.dll
+C:\Users\SMART\source\repos\POS SALES\bin\Release\MySql.Data.dll
+C:\Users\SMART\source\repos\POS SALES\bin\Release\MySqlBackup.dll
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Activate_Physical_Stock.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Backup.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Bank.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Bank_Card.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Configuration.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Customer_Inventory.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Customer_Card.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Daily_Sales_Report_Detail.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Daily_Transaction_Report_Summary.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Detail_Sales_and_Stock_Report.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Expenditure.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Expenditure_category.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Expense.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Form1.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Generate_Stock_List.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Greetings.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Inventory_Profile.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.MDIParent1.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Post_Stock.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.POS_Sales.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Products_Card.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Product_Category.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Product_Disposal.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Product_Disposal_Detail.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Product_Dispose_New.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Product_Inventory.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Product_Journal.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Properties.Resources.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Purchase.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Purchase_Invoice.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Purchase_Invoice_Detail.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Report.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Sales_Analysis_Profile.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Sales_Analysis_Report.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Sales_Invoice.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Sales_Report_Qty_By_Total.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Sales_Return.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Sales_Return_detail.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Sales_Return_Report.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Search_Product.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Search_Stock.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Stock_Report.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Transction_Report_Summary.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Transction_Report_Summary2.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.User_Account.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.User_Account_Form.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.User_Account_Role.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.User_Login.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.Vendor.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS_SALES.View_Stock.resources
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS SALES.csproj.GenerateResource.cache
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS SALES.csproj.CopyComplete
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS SALES.exe
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS SALES.pdb
+C:\Users\SMART\source\repos\POS SALES\bin\Release\POS SALES.exe.config
+C:\Users\SMART\source\repos\POS SALES\obj\Release\POS SALES.csprojAssemblyReference.cache
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\bin\Release\POS SALES.exe.config
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\bin\Release\POS SALES.exe
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\bin\Release\POS SALES.pdb
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS SALES.csprojAssemblyReference.cache
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Activate_Physical_Stock.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Add_Product.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Backup.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Bank.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Bank_Card.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Configuration.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Customer_Inventory.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Customer_Card.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Daily_Sales_Report_Detail.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Daily_Transaction_Report_Summary.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Detail_Sales_and_Stock_Report.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Expenditure.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Expenditure_category.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Expense.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Form1.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Generate_Stock_List.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Greetings.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Inventory_Profile.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.MDIParent1.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Post_Stock.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.POS_Sales.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Products_Card.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Product_Category.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Product_Disposal.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Product_Disposal_Detail.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Product_Dispose_New.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Product_Inventory.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Product_Journal.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Properties.Resources.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Purchase_Report.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Purchase.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Purchase_Invoice.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Purchase_Invoice_Detail.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Report.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Invoice_Detail.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Invoice_Report.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Report_Qty_By_Total_Old.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Analysis_Profile.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Analysis_Report.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Invoice.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Report_Qty_By_Total.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Return.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Return_detail.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Return_Report.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Search_Product.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Search_Stock.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Stock_Report.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Transction_Report_Summary.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Transction_Report_Summary2.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.User_Account.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.User_Account_Form.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.User_Account_Role.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.User_Login.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.Vendor.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS_SALES.View_Stock.resources
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS SALES.csproj.GenerateResource.cache
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS SALES.csproj.CoreCompileInputs.cache
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS SALES.csproj.CopyComplete
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS SALES.exe
+C:\Users\Smart Tech\source\repos\REYFIT LIMITED\obj\Release\POS SALES.pdb
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Activate_Physical_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Add_Product.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Backup.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Post_Empties.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Bank.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Bank_Card.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Configuration.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Creditors_List.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Customer_Inventory.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Customer_Account.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Customer_Card.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Daily_Sales_Report_Detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Daily_Transaction_Report_Summary.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Debtors_List.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Detail_Sales_and_Stock_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Empties_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Expenditure.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Expenditure_category.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Expense.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Debit.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Form1.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Generate_Stock_List.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Greetings.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Income_List.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Income_category.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Income_Expenses.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Income_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Inventory_Profile.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.MDIParent1.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Post_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Purchase_Empties.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.POS_Sales.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Products_Card.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Discount_Markup.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Product_Category.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Product_Disposal.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Product_Disposal_Detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Product_Dispose_New.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Product_Inventory.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Product_Journal.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Profit_Product_Category.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Properties.Resources.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Profit_Product.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Purchase_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Purchase.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Purchase_Invoice.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Purchase_Invoice_Detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Invoice_Detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Invoice_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Report_Qty_By_Total_Old.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Analysis_Profile.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Analysis_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Invoice.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Report_Qty_By_Total.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Return.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Return_detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Sales_Return_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Search_Product_Empty.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Search_Product.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Search_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Stock_Valuation_Summary.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Stock_Position_Summary.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Stock_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Transction_Report_Summary.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Transction_Report_Summary2.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.User_Account.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.User_Account_Form.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.User_Account_Role.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.User_Login.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Vendor.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.View_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS SALES.csproj.GenerateResource.cache
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS SALES.csproj.CoreCompileInputs.cache
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS SALES.exe
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS SALES.pdb
+C:\Users\Smart Tech\source\REYFIT LIMITED\bin\Release\POS SALES.exe.config
+C:\Users\Smart Tech\source\REYFIT LIMITED\bin\Release\POS SALES.exe
+C:\Users\Smart Tech\source\REYFIT LIMITED\bin\Release\POS SALES.pdb
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS SALES.csproj.CopyComplete
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS_SALES.Inventory_Profile_Empty.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED\obj\Release\POS SALES.csprojAssemblyReference.cache
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\bin\Release\POS SALES.exe.config
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\bin\Release\POS SALES.exe
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\bin\Release\POS SALES.pdb
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS SALES.csprojAssemblyReference.cache
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Activate_Physical_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Add_Product.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Backup.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Outflow.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Inflow.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Inventory_Profile_Empty.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Post_Empties.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Bank.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Bank_Card.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Configuration.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Creditors_List.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Customer_Inventory.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Customer_Account.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Customer_Card.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Daily_Sales_Report_Detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Daily_Transaction_Report_Summary.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Debtors_List.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Detail_Sales_and_Stock_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Empties_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Expenditure.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Expenditure_category.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Expense.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Debit.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Form1.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Generate_Stock_List.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Greetings.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Income_Expenses.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Inventory_Profile.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.MDIParent1.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Post_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.POS_Sales1.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Journal_Empties.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase_Empties.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.POS_Sales.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Products_Card.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Discount_Markup.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Category.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Disposal.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Disposal_Detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Dispose_New.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Inventory.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Journal.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Profit_Product_Category.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Properties.Resources.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Profit_Product.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Return_Supplier.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase_Invoice.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase_Invoice_Detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Invoice_Detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Invoice_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Report_Qty_By_Total_Old.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Analysis_Profile.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Analysis_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Invoice.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.View_Cash_Account.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Report_Qty_By_Total.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Return.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Return_detail.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Return_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Search_Product_Empty.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Search_Product.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Search_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Stock_Valuation_Summary.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Stock_Position_Summary.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Stock_Report.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Transction_Report_Summary.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Transction_Report_Summary2.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.User_Account.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.User_Account_Form.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.User_Account_Role.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.User_Login.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Vendor.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.View_Stock.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS SALES.csproj.GenerateResource.cache
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS SALES.csproj.CoreCompileInputs.cache
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS SALES.csproj.CopyComplete
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS SALES.exe
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS SALES.pdb
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Supplier_Account.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Supplier_Payment.resources
+C:\Users\Smart Tech\source\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Supplier_Inventory.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\bin\Release\POS SALES.exe.config
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\bin\Release\POS SALES.exe
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\bin\Release\POS SALES.pdb
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Activate_Physical_Stock.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Add_Product.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Backup.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Profit_Projection.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Supplier_Account.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Supplier_Payment.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Supplier_Inventory.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Outflow.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Inflow.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Inventory_Profile_Empty.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Post_Empties.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Bank.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Bank_Card.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Configuration.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Creditors_List.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Customer_Inventory.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Customer_Account.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Customer_Card.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Daily_Sales_Report_Detail.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Daily_Transaction_Report_Summary.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Debtors_List.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Detail_Sales_and_Stock_Report.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Empties_Stock.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Expenditure.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Expenditure_category.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Expense.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Debit.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Form1.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Generate_Stock_List.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Greetings.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Income_Expenses.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Inventory_Profile.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.MDIParent1.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Post_Stock.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.POS_Sales1.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Journal_Empties.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase_Empties.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Products_Card.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Discount_Markup.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Category.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Disposal.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Disposal_Detail.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Dispose_New.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Inventory.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Product_Journal.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Profit_Product_Category.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Properties.Resources.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase_Report.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Return_Supplier.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase_Invoice.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Purchase_Invoice_Detail.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Report.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Invoice_Detail.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Invoice_Report.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Report_Qty_By_Total_Old.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Analysis_Profile.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Analysis_Report.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Invoice.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.View_Cash_Account.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Report_Qty_By_Total.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Return.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Return_detail.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Sales_Return_Report.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Search_Product_Empty.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Search_Product.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Search_Stock.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Stock_Valuation_Summary.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Stock_Position_Summary.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Stock_Report.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Transction_Report_Summary.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Transction_Report_Summary2.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.User_Account.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.User_Account_Form.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.User_Account_Role.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.User_Login.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Vendor.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.View_Stock.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS SALES.csproj.GenerateResource.cache
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS SALES.csproj.CoreCompileInputs.cache
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS SALES.csproj.CopyComplete
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS SALES.exe
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS SALES.pdb
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS_SALES.Fifo_Order_Journal.resources
+C:\Users\wahab\source\repos\REYFIT LIMITED EDITING\obj\Release\POS SALES.csproj.AssemblyReference.cache

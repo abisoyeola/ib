@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS SALES", "POS SALES.csproj", "{7D621449-60AD-454D-AC85-87F8B16B9A0F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Pack Sales And Stock Management System 1.0", "Pack Sales And Stock Management System 1.0\Pack Sales And Stock Management System 1.0.vdproj", "{3A4619D2-4B96-44E0-B388-39A132899954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D621449-60AD-454D-AC85-87F8B16B9A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D621449-60AD-454D-AC85-87F8B16B9A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D621449-60AD-454D-AC85-87F8B16B9A0F}.Debug|x64.ActiveCfg = Debug|x64
+		{7D621449-60AD-454D-AC85-87F8B16B9A0F}.Debug|x64.Build.0 = Debug|x64
+		{7D621449-60AD-454D-AC85-87F8B16B9A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D621449-60AD-454D-AC85-87F8B16B9A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D621449-60AD-454D-AC85-87F8B16B9A0F}.Release|x64.ActiveCfg = Release|x64
+		{7D621449-60AD-454D-AC85-87F8B16B9A0F}.Release|x64.Build.0 = Release|x64
+		{3A4619D2-4B96-44E0-B388-39A132899954}.Debug|Any CPU.ActiveCfg = Debug
+		{3A4619D2-4B96-44E0-B388-39A132899954}.Debug|x64.ActiveCfg = Debug
+		{3A4619D2-4B96-44E0-B388-39A132899954}.Release|Any CPU.ActiveCfg = Release
+		{3A4619D2-4B96-44E0-B388-39A132899954}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F70705B6-B1FB-46F7-8241-EEE1F61A7DCA}
+	EndGlobalSection
+EndGlobal

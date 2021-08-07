@@ -1,0 +1,24 @@
+﻿1>------ Rebuild All started: Project: POS SALES, Configuration: Debug Any CPU ------
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Customer_Card.cs(61,30,61,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Purchase_Invoice.cs(140,33,140,37): warning CS0162: Unreachable code detected
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Sales_Report_Qty_By_Total.cs(49,25,49,28): warning CS0219: The variable 'num' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Sales_Report_Qty_By_Total.cs(112,25,112,28): warning CS0219: The variable 'num' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Sales_Report_Qty_By_Total.cs(179,25,179,28): warning CS0219: The variable 'num' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Sales_Invoice.cs(24,24,24,35): warning CS0169: The field 'Sales_Invoice.reportTitle' is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Bank_Card.designer.cs(216,51,216,64): warning CS0169: The field 'Bank_Card.dataGridView1' is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Sales_Analysis_Report.cs(23,25,23,30): warning CS0414: The field 'Sales_Analysis_Report.total' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Post_Stock.cs(17,24,17,27): warning CS0414: The field 'Post_Stock.tab' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Products Card.cs(19,24,19,27): warning CS0414: The field 'Products_Card.tab' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Customer_Card.cs(18,22,18,25): warning CS0414: The field 'Customer_Card.num' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\MDIParent1.cs(18,21,18,36): warning CS0414: The field 'MDIParent1.childFormNumber' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\POS_Sales.cs(21,24,21,30): warning CS0414: The field 'POS_Sales.wp_qty' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Sales_Invoice.cs(17,24,17,30): warning CS0414: The field 'Sales_Invoice.wp_qty' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Sales_Analysis_Report.cs(22,24,22,29): warning CS0414: The field 'Sales_Analysis_Report.about' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Product_Journal.cs(17,24,17,27): warning CS0414: The field 'Product_Journal.tab' is assigned but its value is never used
+1>C:\Users\dell\source\repos\HealthWin Pharmacy\Customer_Card.cs(20,23,20,27): warning CS0414: The field 'Customer_Card.keys' is assigned but its value is never used
+1>  POS SALES -> C:\Users\dell\source\repos\HealthWin Pharmacy\bin\Debug\POS SALES.exe
+------ Starting pre-build validation for project 'Sales And Inventory Management System Version 2.0' ------ 
+ERROR: Unable to find source file 'C:\Users\dell\source\repos\HealthWin Pharmacy\backup.sql' for file 'backup.sql', located in '[TARGETDIR]', the file may be absent or locked.
+------ Pre-build validation for project 'Sales And Inventory Management System Version 2.0' completed ------
+2>------ Rebuild All started: Project: Sales And Inventory Management System Version 2.0, Configuration: Debug ------
+========== Rebuild All: 1 succeeded, 1 failed, 0 skipped ==========

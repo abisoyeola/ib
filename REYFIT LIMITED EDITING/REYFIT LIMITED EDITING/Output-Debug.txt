@@ -1,0 +1,39 @@
+﻿'POS SALES.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\SMART\source\repos\POS SALES\bin\Debug\POS SALES.exe'. Symbols loaded.
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Users\SMART\source\repos\POS SALES\bin\Debug\MySql.Data.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_64\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_64\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Users\SMART\source\repos\POS SALES\bin\Debug\MySqlBackup.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_64\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll'. 
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_64\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll'. 
+Exception thrown: 'System.Net.Sockets.SocketException' in System.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in MySql.Data.dll
+Exception thrown: 'MySql.Data.MySqlClient.MySqlException' in MySql.Data.dll
+Exception thrown: 'MySql.Data.MySqlClient.MySqlException' in MySql.Data.dll
+Exception thrown: 'MySql.Data.MySqlClient.MySqlException' in MySql.Data.dll
+POS SALES.exe Error: 0 : Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO)
+Exception thrown: 'MySql.Data.MySqlClient.MySqlException' in MySql.Data.dll
+Exception thrown: 'MySql.Data.MySqlClient.MySqlException' in MySql.Data.dll
+The thread 0x1584 has exited with code 0 (0x0).
+The thread 0xa24 has exited with code 0 (0x0).
+The thread 0x3ae0 has exited with code 0 (0x0).
+Exception thrown: 'System.Net.Sockets.SocketException' in System.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in MySql.Data.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in System.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in MySql.Data.dll
+'POS SALES.exe' (CLR v4.0.30319: POS SALES.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. 
+Exception thrown: 'System.Net.Sockets.SocketException' in System.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in MySql.Data.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in System.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in MySql.Data.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in System.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in MySql.Data.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in System.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in MySql.Data.dll
+The program '[15020] POS SALES.exe' has exited with code 0 (0x0).
